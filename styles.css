@@ -53,3 +53,21 @@ button {
     background-color: #dc3545;
     color: white;
 }
+@media (max-width: 600px) {
+    table {
+        font-size: 14px;
+    }
+    th, td {
+        padding: 8px 10px;
+    }
+}
+
+.pendente {
+    background-color: #dc3545;
+    color: white;
+}
+
+.visto {
+    background-color: #28a745;
+    color: white;
+}
